@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hi there! 
 🔭 I’m currently working on full-stack web and mobile applications for small businesses. <br><br>
 👯 I’m looking to collaborate on open-source projects that focus on improving user experience or enhancing business functionality.<br><br>
 🤔 I’m also seeking help with Kubernetes to streamline my deployment processes. <br><br>
